@@ -6,7 +6,16 @@ Explicações visuais e interativas dos meus projetos, reunidas em um só lugar.
 
 </div>
 
-### Ola sou Allan Santos 👋
+### Olá, sou Allan Santos 👋
+
+**Construo com IA: automação e fluxos de agentes de IA.**
+
+Trabalho com agentes de código (Claude Code, Codex, Copilot), MCP e orquestração de sessões, e transformo isso em ferramentas que uso no dia a dia. Algumas delas:
+
+- **[token-guard](https://github.com/AllanSantos-DV/token-guard)**: economia de contexto para agentes de IA, em qualquer IDE.
+- **[Smart Tool](https://allansantos-dv.github.io/smart-tool/)**: servidor MCP local com busca e leitura de código mais baratas para agentes.
+
+O resto está no índice de produtos, acima.
 
 <div align="center">
   <a href="https://github.com/AllanSantos-DV">
@@ -16,15 +25,15 @@ Explicações visuais e interativas dos meus projetos, reunidas em um só lugar.
 <div style="display: inline_block"><br>
 </div>
     
-## **Languages and tools:**      
+## **Stack:**      
    
     
 <div align="center">
-<img align="center" alt="Rafa-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img align="center" alt="Lurf-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+<img align="center" alt="Lurf-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Lurf-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">    
 <img align="center" alt="Lurf-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-<img align="center" alt="Lurf-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div><br>
 
 
